@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Wake-upper",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
